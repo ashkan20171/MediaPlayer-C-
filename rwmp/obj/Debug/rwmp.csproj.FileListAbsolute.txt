@@ -1,0 +1,33 @@
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\bin\Debug\rwmp.exe
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\bin\Debug\rwmp.pdb
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\bin\Debug\Interop.WMPLib.dll
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\Interop.WMPLib.dll
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\rwmp.csproj.ResolveComReference.cache
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\rwmp.Form1.resources
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\rwmp.Properties.Resources.resources
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\rwmp.csproj.GenerateResource.Cache
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\rwmp.exe
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\rwmp.pdb
+C:\Users\RASOUL\Documents\Visual Studio 2008\Projects\rwmp\rwmp\obj\Debug\rwmp.AboutBox1.resources
+C:\Users\ranjbari\Desktop\csharp\rwmp\rwmp\obj\Debug\Interop.WMPLib.dll
+C:\Users\ranjbari\Desktop\csharp\rwmp\rwmp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ranjbari\Desktop\csharp\rwmp\rwmp\obj\Debug\rwmp.csproj.ResolveComReference.cache
+C:\Users\ranjbari\Desktop\csharp\rwmp\rwmp\obj\Debug\rwmp.exe
+C:\Users\ranjbari\Desktop\csharp\rwmp\rwmp\obj\Debug\rwmp.pdb
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\Interop.WMPLib.dll
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\AxInterop.WMPLib.dll
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\rwmp.csproj.ResolveComReference.cache
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\rwmp.exe
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\rwmp.pdb
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\bin\Debug\rwmp.exe
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\bin\Debug\rwmp.pdb
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\bin\Debug\Interop.WMPLib.dll
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\bin\Debug\AxInterop.WMPLib.dll
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\ResolveAssemblyReference.cache
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\rwmp.AboutBox1.resources
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\rwmp.Form1.resources
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\rwmp.Properties.Resources.resources
+C:\Project\project\Upload\sina c#\attachments_2011_04_13\media player\media player\rwmp\obj\Debug\rwmp.csproj.GenerateResource.Cache
